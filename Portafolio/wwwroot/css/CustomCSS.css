@@ -1,0 +1,38 @@
+﻿#Foto {
+    width: 200px;
+    margin: 2rem 0;
+    border-radius: 12px
+}
+
+#imagen-csharp {
+    width: 200px;
+}
+
+.seccion-bienvenida {
+    margin: 5rem 0 10rem 0;
+    color: white;
+}
+
+    .seccion-bienvenida h1 {
+        margin-bottom: 3rem;
+    }
+
+    .seccion-bienvenida p {
+        font-family: sans-serif;
+        line-height: 1.5;
+        font-size: 1.25rem;
+    }
+
+.habilidades ul {
+    list-style: none;
+    padding-left: 0;
+}
+
+    .habilidades i {
+        color: blue;
+        font-size: 60px;
+    }
+
+.cabecera {
+    font-weight: bold;
+}
